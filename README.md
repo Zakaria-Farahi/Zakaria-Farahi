@@ -42,7 +42,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-API_Security_Fundamentals-007ACC?&style=for-the-badge&logo=APIsec&logoColor=white" />
-<img src="https://img.shields.io/badge/-Networking_Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/-NDG_Linux_Essentials-FCC624?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/-Introduction_to_IoT-6cb049?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/-API_Security_Fundamentals-007ACC?&style=for-the-badge&logo=APIsec&logoColor=white" /><br>
 </div>
