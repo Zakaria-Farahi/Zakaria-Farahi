@@ -1,7 +1,6 @@
-# Hello, I'm Zakaria Farahi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+I\'m+Zakaria+Farahi!...)](https://git.io/typing-svg)
 <a href="https://linkedin.com/in/zakaria-farahi-b887ba286/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I'm Zakaria, a cybersecurity student with a passion for protecting digital assets and ensuring online safety.
 
 ## 📚 Frameworks, Platforms and Libraries
 
