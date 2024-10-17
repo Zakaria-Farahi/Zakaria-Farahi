@@ -2,7 +2,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F700&center=true&width=435&lines=Hello%2C+I'am+Zakaria+Farahi">
 </p>
 
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1177976974887620688.gif" height="32" width="32"> Some Info...</h1>
 
+<div align="center">
+<img src="./ENSET Mohammedia-vector.ma.svg-vector.ma.svg" height="16"> ・ Computer Engineering - Cybersecurity and Digital Trust<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="16"> ・ Linux enthusiast: Debain Linux!<br>
+<img src="https://github.com/Zakaria-Farahi/Zakaria-Farahi/blob/main/red_flag_2zy0ned18j2u.svg" height="16"> ・ CTF Player: Rev...Cryptographic...Pwn<br>
+<img src="https://github.com/Zakaria-Farahi/Zakaria-Farahi/blob/main/white_hat_s53ul6avpe9f.svg" height="16"> ・ Goal to be a pentester <br>
+</div>
 
 
 
