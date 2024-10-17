@@ -1,34 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+I\'m+Zakaria+Farahi!...)](https://git.io/typing-svg)
-<a href="https://linkedin.com/in/zakaria-farahi-b887ba286/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Zakaria+Farahi!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 
-## 📚 Frameworks, Platforms and Libraries
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-## 📋 Languages
-
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-## 🎛️ Operating System
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-### Tools
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-512BD4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AirCrackng-777BB4?&style=for-the-badge&logo=AirCrack-ng&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BurpSuite-FF6A00?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+
+<h2 align="center"><img src="https://cdn.discordapp.com/emojis/963626379755282522.webp?size=96&quality=lossless" height="24"> Programming Languages</h2>
+
+<table align="center">
+  <tr align="center">
+        <th>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="80" height="80"/>
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
+    </th>
+  </tr>
+</table>
+
+<h2 align="center">My systems <img src="https://cdn.discordapp.com/emojis/704997725099393094.webp?size=96&quality=lossless" height="24" width="24"></h2>
+
+<table align="center">
+  <tr align="center">
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" height="80"/>&nbsp;
+    </th>
+    <th>
+      <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" title="Kali" alt="Kali" width="80" height="80"/>&nbsp;
+    </th>
+    <th>
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" title="windows" alt="windows" width="80" height="80"/>&nbsp;
+    </th>
+  </tr>
+</table>
+
+
+<div align="center">
+    <hr width="50%">
+  <a href="https://github.com/Zakaria-Farahi"><img src="https://github-readme-stats.vercel.app/api?username=Zakaria-Farahi&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=e0a6ab&text_color=fff&rank_icon=github"/></a>
+  <a href="https://github.com/Zakaria-Farahi"><img src="http://github-readme-streak-stats.herokuapp.com?user=Zakaria-Farahi&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=e0a6ab&stroke=ba75e2&ring=f4c780&currStreakNum=bf5054&sideNums=bf5054&currStreakLabel=f5d5d2&sideLabels=f5d5d2&dates=FFFFFF&excludeDaysLabel=EB0000" alt="GitHub Streak"/></a><br>
+  <a href="https://github.com/Zakaria-Farahi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-Farahi&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=4681FF&text_color=fff&custom_title=Languages%20by%20Percentage" title="Language Statictics" alt="TopLangs"/></a>
+  <a href="https://github.com/Zakaria-Farahi"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&langs_count=8&custom_title=Languages%20by%20Time&theme=transparent&title_color=f5d5d2&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/-NDG_Linux_Essentials-FCC624?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/-Introduction_to_IoT-6cb049?&style=for-the-badge&logo=cisco&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/-API_Security_Fundamentals-007ACC?&style=for-the-badge&logo=APIsec&logoColor=white" /><br>
+<div align="center">
+    <hr width="50%">
+    <img src="https://cdn.discordapp.com/emojis/784331387036500009.webp?size=96&quality=lossless" height=80/>
 </div>
+
