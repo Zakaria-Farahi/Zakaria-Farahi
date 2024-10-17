@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F700&center=true&width=435&lines=Hello%2C+I'am+Zakaria+Farahi">
 </p>
 
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1177976974887620688.gif" height="32" width="32"> Some Info...</h1>
+<h1 align="center"><img src="https://media.tenor.com/rOZE9d6XIWIAAAAi/line.gif" width="40"> Some Info...</h1>
 
 <div align="center">
 <img src="./ENSET Mohammedia-vector.ma.svg-vector.ma.svg" height="16"> ・ Computer Engineering - Cybersecurity and Digital Trust<br>
@@ -62,6 +62,6 @@
 
 <div align="center">
     <hr width="50%">
-    <img src="https://cdn.discordapp.com/emojis/784331387036500009.webp?size=96&quality=lossless" height=80/>
+    <img src="https://media.tenor.com/Lf2JYGN_5L8AAAAi/pepe.gif" height=80/>
 </div>
 
