@@ -32,6 +32,9 @@
     <th>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
     </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80">&nbsp;
+    </th>
   </tr>
 </table>
 
