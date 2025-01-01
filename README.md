@@ -8,7 +8,6 @@
 <img src="./ENSET Mohammedia-vector.ma.svg-vector.ma.svg" height="16"> ・ Computer Engineering - Cybersecurity and Digital Trust<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="16"> ・ Linux enthusiast: Debain User!<br>
 <img src="https://github.com/Zakaria-Farahi/Zakaria-Farahi/blob/main/red_flag_2zy0ned18j2u.svg" height="16"> ・ CTF Player: OSINT...Cryptographic...Pwn<br>
-<img src="https://github.com/Zakaria-Farahi/Zakaria-Farahi/blob/main/white_hat_s53ul6avpe9f.svg" height="16"> ・ Goal to be a Exploit Dev <br>
 </div>
 
 
